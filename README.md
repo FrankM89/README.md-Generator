@@ -6,7 +6,7 @@
   2. [Installation](#installation)
   3. [Usage](#usage)
   4. [Contributing](#contributing)
-  5. [Testing](#testing)
+  5. [Tests](#tests)
 
 
   ## Description:
